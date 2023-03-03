@@ -46,3 +46,6 @@ Or you can use the search bar in telegram to find the bot. Bot username : weathe
 
 ## Help
 Instructions on how to use the bot can be viewed by sending a 'help' message.
+
+Django admin panel superuser :
+> Username : admin <br>Password  : adminpassword
